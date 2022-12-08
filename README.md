@@ -1,4 +1,4 @@
-#VTiP-402 Balasanyan Vladimir Var 13
+#VTiP-402 Balasanyan Vladimir 
 
 Простейшая программа суммы трех цифр на Android
 
